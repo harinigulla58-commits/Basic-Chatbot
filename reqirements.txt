@@ -1,0 +1,6 @@
+# Basic Chatbot Requirements
+# No external packages required
+
+Python>=3.8
+
+Since the chatbot does not use packages like NumPy, Pandas, or Matplotlib, your requirements.txt can remain minimal.
